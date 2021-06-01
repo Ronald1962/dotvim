@@ -4,3 +4,6 @@
 [submodule "pack/rportier/start/fugitive"]
 	path = pack/rportier/start/fugitive
 	url = http://github.com/tpope/vim-fugitive.git
+[submodule "pack/rportier/start/latex-live-preview"]
+	path = pack/rportier/start/latex-live-preview
+	url = https://github.com/xuhdev/vim-latex-live-preview.git
