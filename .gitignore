@@ -1,0 +1,7 @@
+# Backups.
+.*.swp
+.*.swo
+*~
+# Generated files.
+/build/
+*.pyc
