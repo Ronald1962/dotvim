@@ -1,3 +1,6 @@
 [submodule "pack/rportier/start/nerdtree"]
 	path = pack/rportier/start/nerdtree
 	url = https://github.com/preservim/nerdtree
+[submodule "pack/rportier/start/fugitive"]
+	path = pack/rportier/start/fugitive
+	url = http://github.com/tpope/vim-fugitive.git
